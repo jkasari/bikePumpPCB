@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "adafruit_ADS1115")(type "KiCad")(uri "${KIPRJMOD}/adafruit_ADS1115.kicad_sym")(options "")(descr ""))
+)
